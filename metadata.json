@@ -1,0 +1,7 @@
+{
+  "name": "NS IT Solutions",
+  "description": "Expert Printer & Laptop Repair Services in Mumbai. Trusted on-site support for HP, Canon, Epson, and more.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
